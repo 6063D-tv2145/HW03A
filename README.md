@@ -1,4 +1,4 @@
-# HW02B Description
+# HW023 Description
 
 1. At first, I did not realize there were hints to the home work and thought I could just do two patterns. I ended up with a pattern that was too regular and quickly realized it won't work 
 ![original pattern division](https://imgpile.com/images/Dt3Ed8.png)
